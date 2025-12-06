@@ -1,0 +1,14 @@
+.myenv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+data/       
+logs/
+models/
+
+# Ignore virtual environment folder
+venv/
+env/    
+myenv/
+
